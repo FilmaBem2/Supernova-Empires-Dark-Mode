@@ -12,6 +12,7 @@ This resource pack wiil turn every GUI dark, made especially for Supernova Empir
 
 - Applied Energistics 2
 - Mod Menu (1.16+)
+- No Chat Reports (1.19+)
 
 ## Minecraft Versions Support
 
