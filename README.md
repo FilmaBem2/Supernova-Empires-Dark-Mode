@@ -6,11 +6,11 @@ This resource pack wiil turn every GUI dark, made especially for Supernova Empir
 ![Big Chest](https://cdn.modrinth.com/data/sOZzMl2o/images/d7d2cef03b2664f3dcd12dd2f0f69043ab8cf812.png "Big Chest")
 ![Dispenser](https://cdn.modrinth.com/data/sOZzMl2o/images/d7d2cef03b2664f3dcd12dd2f0f69043ab8cf812.png "Dispenser")
 ![Hopper](https://cdn.modrinth.com/data/sOZzMl2o/images/6eae40c382b0484d9f31dffdcec4353aca9bf575.png "Hopper")
-![Smithing Table](https://cdn.modrinth.com/data/sOZzMl2o/images/73c72a22231104eedb6e3f4ff5e859a52b12324a.png "Smithing")
+![Smithing Table](https://cdn.modrinth.com/data/sOZzMl2o/images/73c72a22231104eedb6e3f4ff5e859a52b12324a.png "Smithing Table")
 
 ## Mod Support
 
-Currently there are no mod support in this resource pack but it will support a lot of mods
+- Applied Energistics 2
 
 ## Minecraft Versions Support
 
