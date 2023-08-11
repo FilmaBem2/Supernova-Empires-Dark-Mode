@@ -11,7 +11,7 @@ This resource pack wiil turn every GUI dark, made especially for Supernova Empir
 ## Mod Support
 
 - Applied Energistics 2
-- EnderIO (1.12 Only)
+- EnderIO (1.12 and 1.20 Only)
 - Extreme Reactors
 - Mod Menu (1.16+)
 - No Chat Reports (1.19+)
